@@ -8,7 +8,7 @@ class Student < User      # inherits from the User class
     @knowledge << fact
   end
 
-  def knowledge            #
+  def knowledge            #returns that student's knowledge array
     @knowledge
   end
   
