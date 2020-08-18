@@ -1,3 +1,5 @@
 class User 
   attr_accessor :first_name, :last_name
+      # has a first name 
+      # has a last name 
 end
