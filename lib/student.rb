@@ -1,6 +1,6 @@
 class Student < User      # inherits from the User class
 
-  def initialize
+  def initialize            # inherits from the User class
     @knowledge = []
   end
 
