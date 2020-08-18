@@ -1,4 +1,4 @@
-class Student < User
+class Student < User      # inherits from the User class
 
   def initialize
     @knowledge = []
